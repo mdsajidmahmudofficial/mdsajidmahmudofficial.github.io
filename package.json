@@ -1,0 +1,12 @@
+{
+  "name": "md-sajid-mahmud-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static bilingual portfolio for MD Sajid Mahmud",
+  "scripts": {
+    "sync:behance": "node scripts/sync-behance.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

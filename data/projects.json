@@ -1,0 +1,69 @@
+{
+  "source": "local-fallback",
+  "updatedAt": "2026-07-22T00:00:00.000Z",
+  "projects": [
+    {
+      "id": 253077919,
+      "name": "Fresh Product Ad Series",
+      "title": { "en": "Fresh Product Ad Series", "bn": "ফ্রেশ প্রোডাক্ট অ্যাড সিরিজ" },
+      "category": { "en": "FMCG · Product advertising", "bn": "এফএমসিজি · প্রোডাক্ট অ্যাডভার্টাইজিং" },
+      "image": "assets/portfolio/fresh-product-ad-series.png",
+      "url": "https://www.behance.net/gallery/253077919/Fresh-Product-Ad-Series",
+      "publishedOn": 253077919
+    },
+    {
+      "id": 253067663,
+      "name": "Nature Boost Campaign | Vol. 03",
+      "title": { "en": "Nature Boost Campaign | Vol. 03", "bn": "নেচার বুস্ট ক্যাম্পেইন | ভলিউম ০৩" },
+      "category": { "en": "Wellness · Product campaign", "bn": "ওয়েলনেস · প্রোডাক্ট ক্যাম্পেইন" },
+      "image": "assets/portfolio/nature-boost-campaign.png",
+      "url": "https://www.behance.net/gallery/253067663/Nature-Boost-Campaign-Vol-03",
+      "publishedOn": 253067663
+    },
+    {
+      "id": 253049351,
+      "name": "Luxury Skincare Collection | Vol. 02",
+      "title": { "en": "Luxury Skincare Collection | Vol. 02", "bn": "লাক্সারি স্কিনকেয়ার কালেকশন | ভলিউম ০২" },
+      "category": { "en": "Beauty · Social media design", "bn": "বিউটি · সোশ্যাল মিডিয়া ডিজাইন" },
+      "image": "assets/portfolio/luxury-skincare.png",
+      "url": "https://www.behance.net/gallery/253049351/Luxury-Skincare-Social-Media-Design-Collection-Vol-02",
+      "publishedOn": 253049351
+    },
+    {
+      "id": 253047895,
+      "name": "Organic Honey Collection | Vol. 01",
+      "title": { "en": "Organic Honey Collection | Vol. 01", "bn": "অর্গানিক হানি কালেকশন | ভলিউম ০১" },
+      "category": { "en": "Food · Natural product campaign", "bn": "ফুড · ন্যাচারাল প্রোডাক্ট ক্যাম্পেইন" },
+      "image": "assets/portfolio/organic-honey.png",
+      "url": "https://www.behance.net/gallery/253047895/Organic-Honey-Social-Media-Design-Collection-Vol-01",
+      "publishedOn": 253047895
+    },
+    {
+      "id": 253021875,
+      "name": "Luxury Apparel Collection | Vol. 03",
+      "title": { "en": "Luxury Apparel Collection | Vol. 03", "bn": "লাক্সারি অ্যাপারেল কালেকশন | ভলিউম ০৩" },
+      "category": { "en": "Fashion · Campaign collection", "bn": "ফ্যাশন · ক্যাম্পেইন কালেকশন" },
+      "image": "assets/portfolio/luxury-apparel-vol-03.png",
+      "url": "https://www.behance.net/gallery/253021875/Luxury-Apparel-Social-Media-Design-Collection-Vol-03",
+      "publishedOn": 253021875
+    },
+    {
+      "id": 252985899,
+      "name": "Next Apparel Campaigns | Vol. 02",
+      "title": { "en": "Next Apparel Campaigns | Vol. 02", "bn": "নেক্সট অ্যাপারেল ক্যাম্পেইন | ভলিউম ০২" },
+      "category": { "en": "Apparel · Visual campaign", "bn": "অ্যাপারেল · ভিজ্যুয়াল ক্যাম্পেইন" },
+      "image": "assets/portfolio/next-apparel-vol-02.png",
+      "url": "https://www.behance.net/gallery/252985899/Next-Apparel-Campaigns-Vol-02",
+      "publishedOn": 252985899
+    },
+    {
+      "id": 252973811,
+      "name": "Fashion Marketing Campaigns | Vol. 01",
+      "title": { "en": "Fashion Marketing Campaigns | Vol. 01", "bn": "ফ্যাশন মার্কেটিং ক্যাম্পেইন | ভলিউম ০১" },
+      "category": { "en": "Fashion · Social advertising", "bn": "ফ্যাশন · সোশ্যাল অ্যাডভার্টাইজিং" },
+      "image": "assets/portfolio/fashion-marketing-vol-01.png",
+      "url": "https://www.behance.net/gallery/252973811/Fashion-Marketing-Campaigns-Vol-01",
+      "publishedOn": 252973811
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "MD Sajid Mahmud — Graphic Designer",
+  "short_name": "Sajid Portfolio",
+  "description": "Social media ad and campaign design portfolio of MD Sajid Mahmud.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07080d",
+  "theme_color": "#07080d",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
